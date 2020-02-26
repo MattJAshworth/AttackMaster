@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reward Master - Coins + Spins</string>
+
+
+    //Menu items
+    <string name="twitter">Twitter</string>
+    <string name="insta">Instagram</string>
+    <string name="rate">Rate on Google Play</string>
+    <string name="youtube">YouTube</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="title_activity_alternate">alternate</string>
+    <string name="reset_gdpr">Reset Ad Consent</string>
+    <string name="about">About</string>
+
+</resources>

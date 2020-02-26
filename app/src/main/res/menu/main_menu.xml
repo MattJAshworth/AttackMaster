@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_twitter"
+        android:title="@string/twitter"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_instagram"
+        android:title="@string/insta"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_youtube"
+        android:title="@string/youtube"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_rate"
+        android:title="@string/rate"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/menu_privacy"
+        android:title="@string/privacy"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_gdpr"
+        android:title="@string/reset_gdpr"
+        app:showAsAction="never" />
+</menu>
