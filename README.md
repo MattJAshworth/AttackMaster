@@ -16,6 +16,28 @@ Attack Master accrued over 3 million downloads and over 400,000 DAU (daily activ
   <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/1597abd5a2431b57fb46a2a7ff310e77547b6cd2/device-2019-05-22-045346.png" width="180" />
 </p>
 
+## Release Statistics
+
+Due to technical and developer agreement issues the project went through 2 rebrandings including 1 redesign.
+
+- Daily Free Spins & Coins for Coin Master
+	- Attack Master
+		- Reward Master
+		
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/7848913de041a48ed30cc4a7ffa1992a4cdbbb20/media/72c827b4fbabaaa2864303cc2c2d89afc10af733e4d1ed8bf52bc7b2b65bf92c.jpg" width="180" />
+  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/7848913de041a48ed30cc4a7ffa1992a4cdbbb20/media/83d528d33703610acfdadc96cbbaabe01a41a581e6cf5265cc64f7e939911c6c.jpg" width="180" /> 
+  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/7848913de041a48ed30cc4a7ffa1992a4cdbbb20/media/c2bad6e7c98bf53c76462457db9a9d2d737d60387725cbdfe78ce2f4cdb5a8ad.jpg" width="180" />
+</p>
+
+### Achievements
+* Ranked 6th in Trending Tools for multiple weeks
+* In the top 50 trending apps
+* 50,000+ Daily Active Users
+* 100,000+ Weekly Active Users
+
+The above screenshots reflect app statistics at a random time. Performance varied and was at times greater and lesser than shown. Peak DAU (Daily Active Users) was around 100,000. 
+
 ## Usage
 
 This is an Android Studio Project. The project can be built within Android Studio using the 'build.gradle' file. Alternatively the app can be run on device or emulator using the release apk found under '/app/release/'. 
