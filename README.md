@@ -7,13 +7,13 @@ Attack Master collates and provides links from across MoonActive's social media 
 
 Written natively for Android in Java with Android Studio. 
 
-Attack Master accrued over 3 million downloads and over 400,000 DAU (daily active users) with ads being served from Admob and Unity Ads for mediation performance.
+Attack Master accrued over 3 million downloads, over 100,000 DAU (daily active users) and 400,000 WAU (weekly active users) with ads being served from Admob and Unity Ads for mediation performance.
 
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/1597abd5a2431b57fb46a2a7ff310e77547b6cd2/device-2019-05-22-045406.png" width="180" />
-  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/1597abd5a2431b57fb46a2a7ff310e77547b6cd2/device-2019-05-22-045432.png" width="180" /> 
-  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/1597abd5a2431b57fb46a2a7ff310e77547b6cd2/device-2019-05-22-045346.png" width="180" />
+  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/2d9475a73f78f4862039c77b36de5867d9b022de/media/device-2020-05-19-135209.png?token=GHSAT0AAAAAAB47X7VGT7VDUIKDS4QX4GD6Y7UUCSA" width="180" />
+  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/3e1e0be49864f93cdc62da94bc23ffb4badd0681/media/device-2020-05-19-135523.png?token=GHSAT0AAAAAAB47X7VGYGDP7N4NC6HQE2LGY7UUHWA" width="180" /> 
+  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/3e1e0be49864f93cdc62da94bc23ffb4badd0681/media/device-2020-05-19-135156.png?token=GHSAT0AAAAAAB47X7VGEGMIEYTWKAWI34YIY7UUIFQ" width="180" />
 </p>
 
 ## Release Statistics
@@ -25,18 +25,16 @@ Due to technical and developer agreement issues the project went through 2 rebra
 		- Reward Master
 		
 <p float="left">
-  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/7848913de041a48ed30cc4a7ffa1992a4cdbbb20/media/72c827b4fbabaaa2864303cc2c2d89afc10af733e4d1ed8bf52bc7b2b65bf92c.jpg" width="180" />
-  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/7848913de041a48ed30cc4a7ffa1992a4cdbbb20/media/83d528d33703610acfdadc96cbbaabe01a41a581e6cf5265cc64f7e939911c6c.jpg" width="180" /> 
-  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/7848913de041a48ed30cc4a7ffa1992a4cdbbb20/media/c2bad6e7c98bf53c76462457db9a9d2d737d60387725cbdfe78ce2f4cdb5a8ad.jpg" width="180" />
+  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/master/media/de8434a54232f1296d66972ecc092ee3133f95c64dc428809c5ead2a04e66995.jpg?token=GHSAT0AAAAAAB47X7VGJVQJ2CJELUU7BG7YY7UUI6A" width="180" />
+  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/master/media/c2bad6e7c98bf53c76462457db9a9d2d737d60387725cbdfe78ce2f4cdb5a8ad.jpg?token=GHSAT0AAAAAAB47X7VHTSOJDI5A2DMRBES6Y7UUJLA" width="180" /> 
+  <img src="https://raw.githubusercontent.com/MattJAshworth/AttackMaster/master/media/5cef12052328d7995ec5e44b2b3eb8bb802291ee33b322a35d95cf7065a25249.jpg?token=GHSAT0AAAAAAB47X7VG24HQSZAUPU2QAOEKY7UUJ5Q" width="180" />
 </p>
 
 ### Achievements
 * Ranked 6th in Trending Tools for multiple weeks
 * In the top 50 trending apps
-* 50,000+ Daily Active Users
-* 100,000+ Weekly Active Users
-
-The above screenshots reflect app statistics at a random time. Performance varied and was at times greater and lesser than shown. Peak DAU (Daily Active Users) was around 100,000. 
+* 100,000+ Daily Active Users
+* 400,000+ Weekly Active Users
 
 ## Usage
 
@@ -66,7 +64,6 @@ Furthermore I heavily advise against reconstructing the firebase store and publi
 * Java
 * XML
 * Firebase
-* Parse Server
 
 ## Notes
 This is an incomplete project. Code and API keys have been removed from the project for privacy. You will need to create a Firebase datastore and add Admob or Unity dependencies and keys where required. 
