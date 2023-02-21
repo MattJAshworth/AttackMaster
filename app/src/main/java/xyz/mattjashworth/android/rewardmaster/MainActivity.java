@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
     String globalURI;
 
 
-    private String unityGameID = "3336066";
+    private String unityGameID = ""; //Insert your unity game ID here for ads
     private Boolean testMode = false;
     private String placementID = "rewardedVideo";
 
