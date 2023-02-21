@@ -12,7 +12,7 @@ Attack Master accrued over 3 million downloads, over 100,000 DAU (daily active u
 
 <p float="left">
   <img src="https://github.com/MattJAshworth/AttackMaster/blob/master/media/device-2020-05-19-135209.png?raw=true" width="180" />
-  <img src="https:/github.com/MattJAshworth/AttackMaster/blob/master/media/device-2020-05-19-135523.png?raw=true" width="180" /> 
+  <img src="https://github.com/MattJAshworth/AttackMaster/blob/master/media/device-2020-05-19-135523.png?raw=true" width="180" /> 
   <img src="https://github.com/MattJAshworth/AttackMaster/blob/master/media/device-2020-05-19-135156.png?raw=true" width="180" />
 </p>
 
